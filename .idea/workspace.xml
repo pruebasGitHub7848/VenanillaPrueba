@@ -5,78 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750568e8-575b-456f-ab0f-23e86646accd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/VentanillaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/controladores/AdministradorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/controladores/AutenticacionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/controladores/ClienteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/controladores/EmpleadoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/controladores/VentanillaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/controladores/excepciones/ExcepcionesGlobales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/AgregarProductoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/ClienteDTO/ModificarClienteDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/ClienteDTO/RegistroClienteDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/DetalleRegistroProductoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/FiltroBusquedaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/ItemProductoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/ItemRegistroProductoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/LoginDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/RegistroAgregacionProductoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/RegistroCompraClienteDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/RegistroEmpleadoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/RegistroProductoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/RegistroVentaEmpleadoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/TokenDTO/MensajeDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/TokenDTO/TokenDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/dto/ValidacionDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/Cuenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/DetalleVenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/MetodologiaPago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/RegistroProducto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/Subcategoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/model/Venta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/repositorios/AdministradorRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/repositorios/ClienteRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/repositorios/CuentaRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/repositorios/EmpleadoRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/repositorios/ProductoRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/repositorios/RegistroProductosRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/repositorios/VentaRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/impl/AdministradorServicioImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/impl/AutenticacionServicioImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/impl/ClienteServicioImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/impl/EmpleadoServicioImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/impl/ProductoServicioImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/impl/VentanillaServicioImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/interfaces/AdministradorServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/interfaces/AutenticacionServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/interfaces/ClienteServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/interfaces/EmpleadoServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/interfaces/ProductoServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/servicios/interfaces/VentanillaServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/utils/FiltroToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/ventanilla_gimli/utils/JWTUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/ventanilla_gimli/test/SerivicioProductoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/ventanilla_gimli/test/ServicioClienteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/ventanilla_gimli/test/ServicioRegistroProductoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,36 +66,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.ServicioClienteTest.listarNombresPorNombre.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Ventanilla_Gimli [dependencies].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Ventanilla_Gimli [test].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/manu7/Desktop/Inge Soft 3/Laboratorio #1/Ventanilla_Gimli&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;6c7b837e3ff5bef4fda99faadca2a718&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.ServicioClienteTest.listarNombresPorNombre.executor": "Run",
+    "Gradle.Ventanilla_Gimli [dependencies].executor": "Run",
+    "Gradle.Ventanilla_Gimli [test].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/manu7/Desktop/Inge Soft 3/VenanillaPrueba",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "spring.configuration.checksum": "6c7b837e3ff5bef4fda99faadca2a718",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\manu7\Desktop\Inge Soft 3\Ventanilla_Gimli\src\main\java\co\ventanilla_gimli\controladores" />
@@ -272,6 +202,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="VentanillaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="VenanillaPrueba.Ventanilla_Gimli.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.ventanilla_gimli.VentanillaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VentanillaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="Ventanilla_Gimli.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="co.ventanilla_gimli.VentanillaApplication" />
@@ -335,6 +272,7 @@
       <workItem from="1711749219153" duration="18670000" />
       <workItem from="1711773047374" duration="13000" />
       <workItem from="1711941583685" duration="18000" />
+      <workItem from="1712590484983" duration="26000" />
     </task>
     <servers />
   </component>
