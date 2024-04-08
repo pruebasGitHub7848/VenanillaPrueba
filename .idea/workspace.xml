@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="750568e8-575b-456f-ab0f-23e86646accd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="750568e8-575b-456f-ab0f-23e86646accd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +89,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.keymap",
-    "spring.configuration.checksum": "6c7b837e3ff5bef4fda99faadca2a718",
+    "spring.configuration.checksum": "03e0f2b5f872365b8f1823004a66f8b1",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -272,7 +269,7 @@
       <workItem from="1711749219153" duration="18670000" />
       <workItem from="1711773047374" duration="13000" />
       <workItem from="1711941583685" duration="18000" />
-      <workItem from="1712590484983" duration="26000" />
+      <workItem from="1712590484983" duration="353000" />
     </task>
     <servers />
   </component>
